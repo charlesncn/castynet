@@ -3,5 +3,7 @@
 
 I'm JavaScript Engineer with an impeccable taste in modern UI/UX Design;
 
+<a href="https://castynet.africa/" alt="Contributors">
+        <img src="https://img.shields.io/badge/castynet-empowering%20software-orange" />
+</a>
 
- ![Castynet](https://img.shields.io/badge/castynet-empowering%20software-orange?link=https://castynet.africa/&link=https://castynet.africa/)
