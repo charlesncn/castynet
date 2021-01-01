@@ -3,4 +3,5 @@
 
 I'm JavaScript Engineer with an impeccable taste in modern UI/UX Design;
 
- ![Castynet](https://img.shields.io/badge/castynet-empowering%20software-orange)
+
+ ![Castynet](https://img.shields.io/badge/castynet-empowering%20software-orange?link=https://castynet.africa/&link=https://castynet.africa/)
