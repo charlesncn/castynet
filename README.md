@@ -3,6 +3,6 @@
 
 I'm JavaScript Engineer with an impeccable taste in modern UI/UX Design;
 
-<a href="https://castynet.africa/" alt="Contributors"><img src="https://img.shields.io/badge/castynet-empowering%20software-orange" /></a>
+<a href="https://castynet.africa/" alt="Contributors"><img src="https://img.shields.io/badge/CEO-castynet%20studios-orange" /></a>
 <a href="/"><img src="https://komarev.com/ghpvc/?username=castynet&label=Profile%20Views&color=orange&style=flat" alt="Riunge" /></a>
 
